@@ -1,0 +1,2 @@
+rootProject.name = "Load_10_animals_profile_in_fragment"
+include ':app'
